@@ -13,6 +13,7 @@ D:\2026\MAY\KvsHelloWorld\obj\Debug\net8.0\KvsHelloWorld.csproj.CoreCompileInput
 D:\2026\MAY\KvsHelloWorld\obj\Debug\net8.0\KvsHelloWorld.MvcApplicationPartsAssemblyInfo.cache
 D:\2026\MAY\KvsHelloWorld\obj\Debug\net8.0\KvsHelloWorld.RazorAssemblyInfo.cache
 D:\2026\MAY\KvsHelloWorld\obj\Debug\net8.0\KvsHelloWorld.RazorAssemblyInfo.cs
+D:\2026\MAY\KvsHelloWorld\obj\Debug\net8.0\KvsHelloWorld.sourcelink.json
 D:\2026\MAY\KvsHelloWorld\obj\Debug\net8.0\staticwebassets.build.json
 D:\2026\MAY\KvsHelloWorld\obj\Debug\net8.0\staticwebassets.development.json
 D:\2026\MAY\KvsHelloWorld\obj\Debug\net8.0\staticwebassets\msbuild.KvsHelloWorld.Microsoft.AspNetCore.StaticWebAssets.props
